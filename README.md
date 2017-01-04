@@ -6,7 +6,8 @@
 
 ## Description
 
-_This hotel website has two seperate themes in two seperate git branches._
+_This hotel website has two separate themes in two separate git branches._
+_This project may be viewed on GH-Pages [here](https://alexandraholcombe.github.io/hotel-project/) or [here](https://matthcaswell253.github.io/Hotel/)._
 
 ## Setup/Installation Requirements
 
